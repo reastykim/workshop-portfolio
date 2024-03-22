@@ -1,0 +1,22 @@
+[
+    {
+      "title": "{{project-title}}",
+      "description": "{{project-description}}",
+      "url": "{{project-url}}"
+    },
+    {
+      "title": "{{project-title}}",
+      "description": "{{project-description}}",
+      "url": "{{project-url}}"
+    },
+    {
+      "title": "{{project-title}}",
+      "description": "{{project-description}}",
+      "url": "{{project-url}}"
+    },
+    {
+      "title": "{{project-title}}",
+      "description": "{{project-description}}",
+      "url": "{{project-url}}"
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "description": "{{introduce-yourself}}",
+    "skills": [
+      "{{your-skills}}",
+      "{{your-skills}}",
+      "{{your-skills}}",
+      "{{your-skills}}",
+      "{{your-skills}}",
+      "{{your-skills}}"
+    ],
+    "detailOrQuote": "{{tell-us-about-yourself}}"
+}
